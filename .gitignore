@@ -17,3 +17,9 @@ sized/
 thumbs/
 _thumbs/
 */expressionengine/cache/*
+
+# Node Modules
+node_modules/
+
+# Compiled source
+dist
